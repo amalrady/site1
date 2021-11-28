@@ -1,0 +1,258 @@
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(78, 75, 75, 0.7),rgba(37, 37, 37, 0.7)) ,url(../images/4.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+    margin-bottom: 30px;
+}
+
+
+header img{
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+}
+header span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar{
+    box-shadow: 0 3px 6px gray  ;
+  width: 100%;
+
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.c,.b{
+    color: rgb(243, 233, 220);
+   text-align: center;
+}
+.c{
+    margin-top: 200px;
+}
+.v{
+   margin-top: 40px;
+}
+.v .btn{
+    display: grid;
+}
+.h{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.e{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.e span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.f{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.f span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.g{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.g span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.k{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.k span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.m{
+    text-align: center;
+}
+.m span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.o{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.o span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.q{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.q span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.r{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.r span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.card{
+    background-color: rgb(238, 213, 130);
+}
+.u{
+    background-image: url(../images/16.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 400px;
+     margin-bottom: 50px;
+}
+.bb{
+    margin-bottom: 50px;
+}
+.vv{
+    text-align: center;
+}
+.vv h1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.vv p{
+    margin-bottom:30px ;
+}
+.ee{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.ee span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.ff{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.ff span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.gg{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.gg span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.kk{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.kk span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.mm{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.mm span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.oo{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.oo span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.qq{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.qq span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.rr{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.rr span{
+    font-weight: bold;
+    font-size: 30px;
+}
+.vvv{
+    text-align: center;
+    margin-bottom: 50px;
+}
+footer{
+    height: 300px;
+    background-color: black;
+    
+}
+footer img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+.c1 h2,h4{
+    color: cornsilk;
+}
+.c2{
+    margin-top: 40px;
+    color:cornsilk ;
+    text-align: center;
+    margin-right: 70px;
+}
+.fab{
+    margin-top: 20px;
+}
+.fab:hover {
+   cursor: pointer;
+   color: blue;
+}
+.c3{
+    margin-top: 40px;
+    color:cornsilk ;
+    text-align: center;
+    
+}
+.c3 ul{
+    list-style: none;
+}
+.c3 ul li{
+    margin-top: 15px;
+   
+}
+.c3 ul li a{
+    text-decoration: none;
+    color: cornsilk;
+    font-size: 15px;
+}
+.c3 ul li a:hover{
+    color: blue;
+}
+.c4{
+    margin-top: 40px;
+    color:cornsilk ;
+    text-align: center;
+    margin-left: 60px;
+}
+.c4 p{
+    margin-top: 20px;
+}
